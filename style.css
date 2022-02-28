@@ -1,0 +1,98 @@
+body {
+color: wheat;
+font-family: "Sofia", serif;
+font-style: italic;
+font-size:19px;
+
+}
+
+header{
+    color:red;
+}
+
+.container{
+    background-image: url(https://i.pinimg.com/originals/33/8e/12/338e12ff9e19dd0a581ec294b46f1f96.jpg);
+}
+
+
+table, th, td {
+border: 1px ;
+}
+
+footer{
+text-align:center;
+color: orange;
+
+border: 5px solid;
+padding:20px;
+margin:20px;
+background-image:url(https://image.shutterstock.com/image-vector/graphic-detailed-decorative-golden-lion-600w-1266049669.jpg)
+
+}
+
+hover{
+background-color:white;
+}
+
+.lion{
+height:250px;
+width:250px;
+position: relative;
+left: 0px;
+}
+.king{
+height:250px;
+width:250px;
+position:relative;
+left:248px;
+bottom:10px;
+}
+.beast{
+height:250px;
+width:250px;
+position:relative;
+left: 242px;
+bottom:260px;
+}
+.gold{
+height:252px;
+width:252px;
+position:relative;
+left:237px;
+bottom:8px;
+}
+.gold1{
+height:250px;
+width:250px;
+position:relative;
+left:234px;
+bottom:258px;
+}
+.gold2{
+height:250px;
+width:250px;
+position:relative;
+left:229px;
+bottom:8px;
+}
+
+
+.nav li{
+margin:10px ;
+padding:10px 10px;
+border-radius:10px ;
+width:150px;
+text-align:left;
+border: solid 2px;
+}
+
+.li{
+display: list-item;
+}
+
+table{
+border:solid 2px;
+border-radius:10px;
+padding:15px;
+margin:5px;
+}
